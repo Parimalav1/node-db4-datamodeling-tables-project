@@ -33,6 +33,7 @@ In addition to the `migrations` and `seeding` scripts, write a data access file 
 - `getRecipes()`: should return a list of all recipes in the database.
 - `getShoppingList(recipe_id)`: should return a list of all ingredients and quantities for a given recipe
 - `getInstructions(recipe_id)`: should return a list of step by step instructions for preparing a recipe
+- `any additional data access helpers`
 
 Organize and name your files anyway you see fit.
 
